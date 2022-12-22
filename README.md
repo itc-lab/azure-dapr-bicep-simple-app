@@ -71,6 +71,7 @@ git clone https://github.com/itc-lab/azure-dapr-bicep-simple-app
 
 ```sh
 cd azure-dapr-bicep-simple-app/node-service
+npm install
 ```
 
 4. build React client
